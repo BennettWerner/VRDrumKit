@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Above Ground Pool
+Author: S. Paul Michael
+URL: https://poly.google.com/view/aUbP5CEuy-a
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Burton palm tree
+Author: Tim Ekberg
+URL: https://poly.google.com/view/0hj-lF2SU20
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Kitchen
+Author: Julien Kleber
+URL: https://poly.google.com/view/dGIfr24PJEd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
